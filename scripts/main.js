@@ -1,4 +1,4 @@
-console.log(document)
+
 // document.addEventListener('DOMContentLoaded', () => {
    const colorBoxElem = document.getElementById('colorBox');
    const changeBtnElem = document.getElementById('changeBtn');
