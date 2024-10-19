@@ -1,5 +1,6 @@
+// handle click to change color event //
 
-// document.addEventListener('DOMContentLoaded', () => {
+
    const colorBoxElem = document.getElementById('colorBox');
    const changeBtnElem = document.getElementById('changeBtn');
 
